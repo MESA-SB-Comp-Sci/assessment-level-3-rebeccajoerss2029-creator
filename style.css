@@ -5,3 +5,39 @@
 }
 
 /* write all your rules below */
+h1{
+    background-color: rgb(255, 171, 185);
+    border: solid red 0.8vw;
+    margin:3vw;
+    width:65vw;
+    margin-left:10vw;
+}
+
+.box1{
+    background-color:rgb(85, 255, 227);
+    padding:6vw;
+    height:30vh;
+    margin:3vw;
+}
+
+.box2{
+    background-color:yellow;
+    border:0.7vw solid pink;
+    width:55vw;
+    height:15vh;
+    margin-left:7vw;
+    margin-bottom:2vw;
+}
+
+#text1{
+    color:blue;
+    margin-left:5vw;
+}
+#text2{
+    color:rgb(17, 255, 0);
+    margin-left:5vw;
+}
+#text3{
+    color:rgb(179, 0, 255);
+    margin-left:5vw;
+}
